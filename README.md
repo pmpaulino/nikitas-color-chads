@@ -39,4 +39,4 @@
 
 - You are done, compare your settings to the settings in the screenshots above
 - When testing these steps out sometimes it seemed like the profile wasn't applied, checking and unchecking "Use Windows display calibration" on the last screenshot seemed to fix this issue
-- Profit
+- PROFIT!
